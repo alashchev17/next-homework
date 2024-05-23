@@ -1,0 +1,9 @@
+.bordered {
+  border-bottom: 1px solid #f9f9f9;
+  transition: border-bottom 0.5s ease-in-out;
+}
+
+.nonBordered {
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.5s ease-in-out;
+}
